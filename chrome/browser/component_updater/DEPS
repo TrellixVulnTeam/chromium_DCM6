@@ -1,0 +1,13 @@
+include_rules = [
+  "+chrome/browser/apps/app_provisioning_service",
+  "+chrome/elevation_service",
+  "+chrome/browser/share",
+  "+chrome/updater",
+  "+components/cdm/common",
+  "+components/live_caption",
+  "+components/soda",
+  "+media/cdm",
+  "+ppapi/thunk",
+  "+third_party/widevine",
+  "+third_party/zxcvbn-cpp"
+]
